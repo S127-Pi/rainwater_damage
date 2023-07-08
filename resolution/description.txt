@@ -1,0 +1,2 @@
+Please download the files for postal code 6 and house numbers
+and place in this directory: https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/gegevens-per-postcode
