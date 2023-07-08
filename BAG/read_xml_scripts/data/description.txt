@@ -1,2 +1,6 @@
 Please download the following files(the files are stored in a directory e.g: 9999VBO08012023): https://www.kadaster.nl/-/kosteloze-download-bag-2-0-extract
 
+
+Alternatively this the "verblijfplaatsen_longer.csv" can be download at the following link: https://drive.google.com/file/d/16c8qa206CzjywhOs7CkjrSubp2IE8LWZ/view
+
+
