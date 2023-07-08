@@ -1,3 +1,13 @@
+#ignoring large directories
+/neerslag/data/2016
+/neerslag/data/2017
+/neerslag/data/2018
+/neerslag/data/2019
+/neerslag/data/2020
+/neerslag/data/2021
+/neerslag/data/2022
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
